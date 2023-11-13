@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ewrergegfsdf
+=======
+nuevo nuevoo
+ss
+>>>>>>> 3dc88aa428b763b44f8afe49d504d38a8d9a06d0
